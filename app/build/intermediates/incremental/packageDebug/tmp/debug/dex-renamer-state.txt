@@ -1,0 +1,4 @@
+#Mon Nov 25 23:22:49 MSK 2019
+base.0=C\:\\Maxwork\\Educational activities\\Android\\Lectures\\5. Threads & Networking\\AsyncTaskSample\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

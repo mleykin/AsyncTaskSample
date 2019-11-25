@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Maxwork\\Educational activities\\Android\\Lectures\\5. Threads & Networking\\AsyncTaskSample\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Maxwork\\Educational activities\\Android\\Lectures\\5. Threads & Networking\\AsyncTaskSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,4,3",
+                        "startColumns": "0,4,0",
+                        "startOffsets": "51,140,100",
+                        "endColumns": "48,41,35",
+                        "endOffsets": "99,177,135"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,108,150",
+                        "endColumns": "52,41,39",
+                        "endOffsets": "103,145,185"
+                    }
+                }
+            ]
+        }
+    ]
+}
